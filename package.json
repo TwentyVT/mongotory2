@@ -1,0 +1,28 @@
+{
+  "name": "mongotory",
+  "version": "1.0.0",
+  "description": "mongodbhomework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TwentyVT/mongotory.git"
+  },
+  "author": "jake",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TwentyVT/mongotory/issues"
+  },
+  "homepage": "https://github.com/TwentyVT/mongotory#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cheerio": "^0.20.0",
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.0",
+    "mongojs": "^2.6.0",
+    "mongoose": "^5.4.4",
+    "morgan": "^1.9.1"
+  }
+}

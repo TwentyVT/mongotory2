@@ -1,2 +1,2 @@
-# mongotory2
-mongo hw
+# mongotory
+mongo HW
